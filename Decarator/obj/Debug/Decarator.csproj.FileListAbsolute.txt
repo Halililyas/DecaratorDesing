@@ -1,0 +1,8 @@
+C:\Users\hızır\Desktop\Decarator\bin\Debug\Decarator.exe.config
+C:\Users\hızır\Desktop\Decarator\bin\Debug\Decarator.exe
+C:\Users\hızır\Desktop\Decarator\bin\Debug\Decarator.pdb
+C:\Users\hızır\Desktop\Decarator\obj\Debug\Decarator.csproj.AssemblyReference.cache
+C:\Users\hızır\Desktop\Decarator\obj\Debug\Decarator.csproj.SuggestedBindingRedirects.cache
+C:\Users\hızır\Desktop\Decarator\obj\Debug\Decarator.csproj.CoreCompileInputs.cache
+C:\Users\hızır\Desktop\Decarator\obj\Debug\Decarator.exe
+C:\Users\hızır\Desktop\Decarator\obj\Debug\Decarator.pdb
